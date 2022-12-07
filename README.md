@@ -1,8 +1,9 @@
-# Project - *Apartments*
+# Project - _Apartments_
 
 Built with Nuxt 3, daisyUI, Tailwindcss, Eslint.
 
 ## Running on Local
+
 - Change the `.env.example` to `.env`
 - Start Vite dev server by running `yarn dev`
 
@@ -16,8 +17,8 @@ The following functionalities are implemented:
 - [x] Search apartments & inventories.
 
 ## Release
-[Apartments](https://nuxt-apartments.netlify.app)
 
+[Apartments](https://nuxt-apartments.netlify.app)
 
 ## License
 
